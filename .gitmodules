@@ -1,3 +1,6 @@
 [submodule "steps"]
 	path = steps
 	url = git@github.com:kshitizadhikari/steps.git
+[submodule "date-counter"]
+	path = date-counter
+	url = git@github.com:kshitizadhikari/date-counter.git
