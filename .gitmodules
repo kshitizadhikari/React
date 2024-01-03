@@ -7,3 +7,6 @@
 [submodule "date-counter-1"]
 	path = date-counter-1
 	url = git@github.com:kshitizadhikari/date-counter-1.git
+[submodule "travel-list"]
+	path = travel-list
+	url = git@github.com:kshitizadhikari/travel-list.git
