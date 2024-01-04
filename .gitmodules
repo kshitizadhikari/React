@@ -11,3 +11,6 @@
 	path = travel-list
 	url = git@github.com:kshitizadhikari/travel-list.git
 
+[submodule "flashcards"]
+	path = flashcards
+	url = git@github.com:kshitizadhikari/flashcards.git
