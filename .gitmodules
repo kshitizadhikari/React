@@ -14,3 +14,6 @@
 [submodule "flashcards"]
 	path = flashcards
 	url = git@github.com:kshitizadhikari/flashcards.git
+[submodule "tip-calculator"]
+	path = tip-calculator
+	url = git@github.com:kshitizadhikari/tip-calculator.git
