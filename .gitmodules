@@ -17,3 +17,6 @@
 [submodule "tip-calculator"]
 	path = tip-calculator
 	url = git@github.com:kshitizadhikari/tip-calculator.git
+[submodule "eat-n-split"]
+	path = eat-n-split
+	url = git@github.com:kshitizadhikari/eat-n-split.git
